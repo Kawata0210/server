@@ -1,2 +1,4 @@
-# server
-An apk Downloader
+# Fleet.
+Fleet is an Open Source App installer.
+
+
