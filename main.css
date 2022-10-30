@@ -5,26 +5,5 @@ html BODY {
   margin: 0 9 9 9;
 }
 body {
-  background-color: white;
-}
-
-a.button {
-  -webkit-appearance: button;
-  -moz-appearance: button;
-  appearance: button;
-
-  text-decoration: none;
-  color: initial;
-}
-
-body {
-  padding: 25px;
-  background-color: white;
-  color: black;
-  font-size: 25px;
-}
-
-.dark-mode {
   background-color: black;
-  color: white;
 }
